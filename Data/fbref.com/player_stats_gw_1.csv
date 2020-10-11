@@ -1,0 +1,222 @@
+Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,Gls,Ast,PK,PKatt,CrdY,CrdR,Gls2,Ast3,G+A,G-PK,G+A-PK,xG,npxG,xA,xG4,xA5,xG+xA,npxG6,npxG+xA,Matches
+Mohamed Salah\Mohamed-Salah,eg EGY,FW,Liverpool,28,1992,1,1,90,3,0,2,2,0,0,3,0,3,1,1,1.9,0.4,0.2,1.87,0.25,2.12,0.39,0.64,Matches
+Jamie Vardy\Jamie-Vardy,eng ENG,FW,Leicester City,33,1987,1,1,90,2,0,2,2,0,0,2,0,2,0,0,1.5,0,0,1.52,0.02,1.54,0,0.02,Matches
+Jeff Hendrick\Jeff-Hendrick,ie IRL,MF,Newcastle Utd,28,1992,1,1,90,1,1,0,0,0,0,1,1,2,1,2,0.1,0.1,0.4,0.09,0.43,0.52,0.09,0.52,Matches
+Leandro Trossard\Leandro-Trossard,be BEL,MFFW,Brighton,25,1994,1,1,90,1,0,0,0,0,0,1,0,1,1,1,0,0,0.4,0.03,0.36,0.39,0.03,0.39,Matches
+Raúl Jiménez\Raul-Jimenez,mx MEX,MFFW,Wolves,29,1991,1,1,90,1,0,0,0,0,0,1,0,1,1,1,0.8,0.8,0.3,0.8,0.25,1.06,0.8,1.06,Matches
+Alexandre Lacazette\Alexandre-Lacazette,fr FRA,FW,Arsenal,29,1991,1,1,86,1,0,0,0,0,0,1.05,0,1.05,1.05,1.05,0.5,0.5,0.2,0.48,0.26,0.73,0.48,0.73,Matches
+Callum Wilson\Callum-Wilson,eng ENG,FW,Newcastle Utd,28,1992,1,1,84,1,0,0,0,0,0,1.07,0,1.07,1.07,1.07,0.6,0.6,0.1,0.65,0.13,0.78,0.65,0.78,Matches
+Dominic Calvert-Lewin\Dominic-Calvert-Lewin,eng ENG,FW,Everton,23,1997,1,1,88,1,0,0,0,0,0,1.02,0,1.02,1.02,1.02,0.2,0.2,0.1,0.19,0.12,0.32,0.19,0.32,Matches
+Jorginho\Jorginho,it ITA,MF,Chelsea,28,1991,1,1,84,1,1,1,1,0,0,1.07,1.07,2.14,0,1.07,0.8,0,0.1,0.81,0.06,0.87,0,0.06,Matches
+Reece James\Reece-James,eng ENG,DF,Chelsea,20,1999,1,1,90,1,1,0,0,0,0,1,1,2,1,2,0,0,0.1,0.03,0.11,0.14,0.03,0.14,Matches
+Pierre-Emerick Aubameyang\Pierre-Emerick-Aubameyang,ga GAB,FW,Arsenal,31,1989,1,1,90,1,0,0,0,1,0,1,0,1,1,1,0.4,0.4,0,0.42,0.05,0.47,0.42,0.47,Matches
+Wilfried Zaha\Wilfried-Zaha,ci CIV,FW,Crystal Palace,27,1992,1,1,90,1,0,0,0,0,0,1,0,1,1,1,0.4,0.4,0,0.37,0,0.37,0.37,0.37,Matches
+Romain Saïss\Romain-Saiss,ma MAR,DF,Wolves,30,1990,1,1,90,1,0,0,0,0,0,1,0,1,1,1,0.3,0.3,0,0.35,0,0.35,0.35,0.35,Matches
+Patrick Bamford\Patrick-Bamford,eng ENG,FW,Leeds United,26,1993,1,1,61,1,0,0,0,0,0,1.48,0,1.48,1.48,1.48,0.2,0.2,0,0.33,0,0.33,0.33,0.33,Matches
+Virgil van Dijk\Virgil-van-Dijk,nl NED,DF,Liverpool,29,1991,1,1,90,1,0,0,0,0,0,1,0,1,1,1,0.2,0.2,0,0.21,0,0.21,0.21,0.21,Matches
+Timothy Castagne\Timothy-Castagne,be BEL,DF,Leicester City,24,1995,1,1,90,1,0,0,0,0,0,1,0,1,1,1,0.1,0.1,0,0.12,0,0.12,0.12,0.12,Matches
+Gabriel Dos Santos\Gabriel-Dos-Santos,br BRA,DF,Arsenal,22,1997,1,1,90,1,0,0,0,0,0,1,0,1,1,1,0.1,0.1,0,0.1,0,0.1,0.1,0.1,Matches
+Jack Harrison\Jack-Harrison,eng ENG,MF,Leeds United,23,1996,1,1,90,1,0,0,0,0,0,1,0,1,1,1,0.1,0.1,0,0.13,0,0.13,0.13,0.13,Matches
+Mateusz Klich\Mateusz-Klich,pl POL,MF,Leeds United,30,1990,1,1,80,1,0,0,0,0,0,1.13,0,1.13,1.13,1.13,0.1,0.1,0,0.16,0,0.16,0.16,0.16,Matches
+Kurt Zouma\Kurt-Zouma,fr FRA,DF,Chelsea,25,1994,1,1,90,1,0,0,0,0,0,1,0,1,1,1,0,0,0,0.04,0,0.04,0.04,0.04,Matches
+Sadio Mané\Sadio-Mane,sn SEN,FW,Liverpool,28,1992,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0.2,0.2,0.8,0.25,0.84,1.09,0.25,1.09,Matches
+Jannik Vestergaard\Jannik-Vestergaard,dk DEN,DF,Southampton,27,1992,1,0,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0.5,0,0.92,0.92,0,0.92,Matches
+Harry Kane\Harry-Kane,eng ENG,FW,Tottenham,27,1993,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0.2,0.2,0.4,0.22,0.37,0.59,0.22,0.59,Matches
+Ryan Fredericks\Ryan-Fredericks,eng ENG,DF,West Ham,27,1992,1,1,90,0,0,0,0,1,0,0,0,0,0,0,0,0,0.4,0,0.38,0.38,0,0.38,Matches
+Tariq Lamptey\Tariq-Lamptey,eng ENG,DF,Brighton,19,2000,1,1,90,0,1,0,0,1,0,0,1,1,0,1,0,0,0.4,0.03,0.36,0.38,0.03,0.38,Matches
+Andros Townsend\Andros-Townsend,eng ENG,MF,Crystal Palace,29,1991,1,1,90,0,1,0,0,0,0,0,1,1,0,1,0,0,0.4,0,0.41,0.41,0,0.41,Matches
+Sébastien Haller\Sebastien-Haller,fr FRA,FW,West Ham,26,1994,1,0,24,0,0,0,0,0,0,0,0,0,0,0,0.2,0.2,0.3,0.65,1.08,1.73,0.65,1.73,Matches
+James Rodríguez\James-Rodriguez,co COL,FW,Everton,29,1991,1,1,89,0,0,0,0,0,0,0,0,0,0,0,0.2,0.2,0.3,0.23,0.29,0.53,0.23,0.53,Matches
+Son Heung-min\Son-Heung-min,kr KOR,FWMF,Tottenham,28,1992,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0.3,0.08,0.34,0.42,0.08,0.42,Matches
+Willian\Willian,br BRA,FW,Arsenal,31,1988,1,1,75,0,2,0,0,0,0,0,2.4,2.4,0,2.4,0.6,0.6,0.2,0.71,0.25,0.96,0.71,0.96,Matches
+Che Adams\Che-Adams,eng ENG,FW,Southampton,24,1996,1,1,84,0,0,0,0,0,0,0,0,0,0,0,0.5,0.5,0.2,0.49,0.18,0.68,0.49,0.68,Matches
+Tomáš Souček\Tomas-Soucek,cz CZE,MF,West Ham,25,1995,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0.4,0.4,0.2,0.38,0.17,0.56,0.38,0.56,Matches
+George Baldock\George-Baldock,eng ENG,DF,Sheffield Utd,27,1993,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0.2,0.05,0.22,0.27,0.05,0.27,Matches
+Solly March\Solly-March,eng ENG,DF,Brighton,26,1994,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0.2,0.09,0.2,0.29,0.09,0.29,Matches
+Jonjo Shelvey\Jonjo-Shelvey,eng ENG,MF,Newcastle Utd,28,1992,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0.2,0.14,0.16,0.3,0.14,0.3,Matches
+Héctor Bellerín\Hector-Bellerin,es ESP,DF,Arsenal,25,1995,1,1,90,0,0,0,0,1,0,0,0,0,0,0,0,0,0.2,0,0.23,0.23,0,0.23,Matches
+Abdoulaye Doucouré\Abdoulaye-Doucoure,fr FRA,MF,Everton,27,1993,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0.2,0,0.17,0.17,0,0.17,Matches
+Jamal Lewis\Jamal-Lewis,nir NIR,DF,Newcastle Utd,22,1998,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0.2,0,0.17,0.17,0,0.17,Matches
+James McArthur\James-McArthur,sco SCO,MF,Crystal Palace,32,1987,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0.2,0.05,0.19,0.24,0.05,0.24,Matches
+João Moutinho\Joao-Moutinho,pt POR,MF,Wolves,33,1986,1,1,85,0,0,0,0,0,0,0,0,0,0,0,0,0,0.2,0,0.18,0.18,0,0.18,Matches
+Kalvin Phillips\Kalvin-Phillips,eng ENG,MF,Leeds United,24,1995,1,1,90,0,1,0,0,0,0,0,1,1,0,1,0,0,0.2,0.03,0.17,0.2,0.03,0.2,Matches
+Andrew Robertson\Andrew-Robertson,sco SCO,DF,Liverpool,26,1994,1,1,90,0,1,0,0,0,0,0,1,1,0,1,0,0,0.2,0,0.16,0.16,0,0.16,Matches
+Richarlison\Richarlison,br BRA,FW,Everton,23,1997,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0.9,0.9,0.1,0.94,0.07,1.02,0.94,1.02,Matches
+Georginio Wijnaldum\Georginio-Wijnaldum,nl NED,MF,Liverpool,29,1990,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0.4,0.4,0.1,0.41,0.11,0.51,0.41,0.51,Matches
+Danny Ings\Danny-Ings,eng ENG,FW,Southampton,28,1992,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0.2,0.2,0.1,0.18,0.1,0.28,0.18,0.28,Matches
+Oliver McBurnie\Oliver-McBurnie,sco SCO,FW,Sheffield Utd,24,1996,1,1,90,0,0,0,0,1,0,0,0,0,0,0,0.2,0.2,0.1,0.23,0.07,0.3,0.23,0.3,Matches
+Granit Xhaka\Granit-Xhaka,ch SUI,MF,Arsenal,27,1992,1,1,78,0,0,0,0,0,0,0,0,0,0,0,0.2,0.2,0.1,0.19,0.13,0.32,0.19,0.32,Matches
+Miguel Almirón\Miguel-Almiron,py PAR,MF,Newcastle Utd,26,1994,1,0,6,0,1,0,0,0,0,0,15,15,0,15,0.1,0.1,0.1,0.97,1.32,2.28,0.97,2.28,Matches
+Steven Alzate\Steven-Alzate,co COL,MF,Brighton,21,1998,1,1,78,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0.1,0.15,0.14,0.28,0.15,0.28,Matches
+Ben Davies\Ben-Davies,wal WAL,DF,Tottenham,27,1993,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0.1,0.13,0.13,0.25,0.13,0.25,Matches
+Grady Diangana\Grady-Diangana,eng ENG,FW,West Brom,22,1998,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0.1,0.09,0.05,0.15,0.09,0.15,Matches
+Dennis Praet\Dennis-Praet,be BEL,MF,Leicester City,26,1994,1,1,74,0,1,0,0,0,0,0,1.22,1.22,0,1.22,0.1,0.1,0.1,0.09,0.15,0.24,0.09,0.24,Matches
+James Ward-Prowse\James-Ward-Prowse,eng ENG,MF,Southampton,25,1994,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0.1,0.08,0.09,0.17,0.08,0.17,Matches
+Trent Alexander-Arnold\Trent-Alexander-Arnold,eng ENG,DF,Liverpool,21,1998,1,1,88,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0,0.15,0.15,0,0.15,Matches
+Ross Barkley\Ross-Barkley,eng ENG,MF,Chelsea,26,1993,1,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.07,0.32,0.39,0.07,0.39,Matches
+Sander Berge\Sander-Berge,no NOR,MF,Sheffield Utd,22,1998,1,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0,0.86,0.86,0,0.86,Matches
+Ivan Cavaleiro\Ivan-Cavaleiro,pt POR,FW,Fulham,26,1993,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0,0.13,0.13,0,0.13,Matches
+Hélder Costa\Helder-Costa,pt POR,MF,Leeds United,26,1994,1,1,90,0,1,0,0,0,0,0,1,1,0,1,0,0,0.1,0,0.14,0.14,0,0.14,Matches
+Lucas Digne\Lucas-Digne,fr FRA,DF,Everton,27,1993,1,1,90,0,1,0,0,0,0,0,1,1,0,1,0,0,0.1,0,0.05,0.05,0,0.05,Matches
+John Fleck\John-Fleck,sco SCO,MF,Sheffield Utd,28,1991,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.03,0.07,0.1,0.03,0.1,Matches
+Darnell Furlong\Darnell-Furlong,eng ENG,DF,West Brom,24,1995,1,1,68,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.04,0.12,0.16,0.04,0.16,Matches
+Kai Havertz\Kai-Havertz,de GER,MFFW,Chelsea,21,1999,1,1,79,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0,0.07,0.07,0,0.07,Matches
+Adam Lallana\Adam-Lallana,eng ENG,MF,Brighton,32,1988,1,1,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0,0.26,0.26,0,0.26,Matches
+Jake Livermore\Jake-Livermore,eng ENG,MF,West Brom,30,1989,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0,0.12,0.12,0,0.12,Matches
+John Lundstram\John-Lundstram,eng ENG,MF,Sheffield Utd,26,1994,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0,0.06,0.06,0,0.06,Matches
+Javier Manquillo\Javier-Manquillo,es ESP,DF,Newcastle Utd,26,1994,1,1,90,0,0,0,0,1,0,0,0,0,0,0,0,0,0.1,0,0.09,0.09,0,0.09,Matches
+Luka Milivojević\Luka-Milivojevic,rs SRB,MF,Crystal Palace,29,1991,1,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0,0.72,0.72,0,0.72,Matches
+Mason Mount\Mason-Mount,eng ENG,MFFW,Chelsea,21,1999,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.03,0.06,0.08,0.03,0.08,Matches
+Nicolas Pépé\Nicolas-Pepe,ci CIV,FW,Arsenal,25,1995,1,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0,0.45,0.45,0,0.45,Matches
+Daniel Podence\Daniel-Podence,pt POR,FW,Wolves,24,1995,1,1,75,0,1,0,0,0,0,0,1.2,1.2,0,1.2,0,0,0.1,0,0.08,0.08,0,0.08,Matches
+Declan Rice\Declan-Rice,eng ENG,MF,West Ham,21,1999,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0,0.05,0.05,0,0.05,Matches
+Kyle Walker-Peters\Kyle-Walker-Peters,eng ENG,DF,Southampton,23,1997,1,1,90,0,0,0,0,1,0,0,0,0,0,0,0,0,0.1,0,0.08,0.08,0,0.08,Matches
+Roberto Firmino\Roberto-Firmino,br BRA,FW,Liverpool,28,1991,1,1,90,0,0,0,0,1,0,0,0,0,0,0,0.5,0.5,0,0.5,0,0.5,0.5,0.5,Matches
+Harvey Barnes\Harvey-Barnes,eng ENG,MF,Leicester City,22,1997,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0.4,0.4,0,0.43,0.03,0.46,0.43,0.46,Matches
+Aaron Connolly\Aaron-Connolly,ie IRL,FW,Brighton,20,2000,1,0,46,0,0,0,0,0,0,0,0,0,0,0,0.3,0.3,0,0.68,0,0.68,0.68,0.68,Matches
+Matt Doherty\Matt-Doherty,ie IRL,DF,Tottenham,28,1992,1,1,75,0,0,0,0,0,0,0,0,0,0,0,0.3,0.3,0,0.41,0,0.41,0.41,0.41,Matches
+Lewis Dunk\Lewis-Dunk,eng ENG,DF,Brighton,28,1991,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0.3,0.3,0,0.35,0,0.35,0.35,0.35,Matches
+Neal Maupay\Neal-Maupay,fr FRA,FW,Brighton,23,1996,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0.3,0.3,0,0.33,0,0.33,0.33,0.33,Matches
+Nathan Redmond\Nathan-Redmond,eng ENG,MF,Southampton,26,1994,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0.3,0.3,0,0.27,0,0.27,0.27,0.27,Matches
+Timo Werner\Timo-Werner,de GER,FW,Chelsea,24,1996,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0.3,0.3,0,0.3,0.02,0.32,0.3,0.32,Matches
+Michail Antonio\Michail-Antonio,eng ENG,FWMF,West Ham,30,1990,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0.2,0.2,0,0.18,0.04,0.22,0.18,0.22,Matches
+Andy Carroll\Andy-Carroll,eng ENG,FW,Newcastle Utd,31,1989,1,1,87,0,0,0,0,0,0,0,0,0,0,0,0.2,0.2,0,0.21,0.05,0.26,0.21,0.26,Matches
+Mohamed Elneny\Mohamed-Elneny,eg EGY,MF,Arsenal,28,1992,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0.2,0.2,0,0.24,0,0.24,0.24,0.24,Matches
+Cheikhou Kouyaté\Cheikhou-Kouyate,sn SEN,DF,Crystal Palace,30,1989,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0.2,0.2,0,0.23,0,0.23,0.23,0.23,Matches
+Matheus Pereira\Matheus-Pereira,br BRA,FW,West Brom,24,1996,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0.2,0.2,0,0.17,0.03,0.2,0.17,0.2,Matches
+Billy Sharp\Billy-Sharp,eng ENG,FWMF,Sheffield Utd,34,1986,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0.2,0.2,0,0.22,0,0.22,0.22,0.22,Matches
+Andriy Yarmolenko\Andriy-Yarmolenko,ua UKR,FWMF,West Ham,30,1989,1,0,24,0,0,0,0,1,0,0,0,0,0,0,0.2,0.2,0,0.57,0,0.57,0.57,0.57,Matches
+Dele Alli\Dele-Alli,eng ENG,MF,Tottenham,24,1996,1,1,45,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0,0.18,0,0.18,0.18,0.18,Matches
+Jordan Ayew\Jordan-Ayew,gh GHA,FW,Crystal Palace,28,1991,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0,0.09,0,0.09,0.09,0.09,Matches
+Jarrod Bowen\Jarrod-Bowen,eng ENG,FW,West Ham,23,1996,1,1,88,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0,0.06,0,0.06,0.06,0.06,Matches
+Kyle Edwards\Kyle-Edwards,eng ENG,MF,West Brom,22,1998,1,0,23,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0,0.42,0,0.42,0.42,0.42,Matches
+Federico Fernández\Federico-Fernandez,ar ARG,DF,Newcastle Utd,31,1989,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0,0.08,0,0.08,0.08,0.08,Matches
+Pablo Fornals\Pablo-Fornals,es ESP,FW,West Ham,24,1996,1,1,66,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0,0.17,0,0.17,0.17,0.17,Matches
+André Gomes\Andre-Gomes,pt POR,MF,Everton,27,1993,1,1,67,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0,0.08,0,0.08,0.08,0.08,Matches
+Neeskens Kebano\Neeskens-Kebano,cd COD,FW,Fulham,28,1992,1,1,62,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0,0.13,0,0.13,0.13,0.13,Matches
+Naby Keïta\Naby-Keita,gn GUI,MF,Liverpool,25,1995,1,1,57,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0,0.1,0,0.1,0.1,0.1,Matches
+Lucas Moura\Lucas-Moura,br BRA,FW,Tottenham,27,1992,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0,0.11,0,0.11,0.11,0.11,Matches
+Hal Robson-Kanu\Hal-Robson-Kanu,wal WAL,FW,West Brom,31,1989,1,0,31,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0,0.16,0,0.16,0.16,0.16,Matches
+Jack Stephens\Jack-Stephens,eng ENG,DF,Southampton,26,1994,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0,0.09,0,0.09,0.09,0.09,Matches
+Enda Stevens\Enda-Stevens,ie IRL,DF,Sheffield Utd,30,1990,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0,0.07,0,0.07,0.07,0.07,Matches
+Adama Traoré\Adama-Traore,es ESP,DFFW,Wolves,24,1996,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0,0.11,0,0.11,0.11,0.11,Matches
+Semi Ajayi\Semi-Ajayi,ng NGA,DF,West Brom,26,1993,1,1,90,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Marc Albrighton\Marc-Albrighton,eng ENG,MF,Leicester City,30,1989,1,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Toby Alderweireld\Toby-Alderweireld,be BEL,DF,Tottenham,31,1989,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.04,0,0.04,0.04,0.04,Matches
+Alisson\Alisson,br BRA,GK,Liverpool,27,1992,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Allan\Allan,br BRA,MF,Everton,29,1991,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Marcos Alonso\Marcos-Alonso,es ESP,DF,Chelsea,29,1990,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Felipe Anderson\Felipe-Anderson,br BRA,FW,West Ham,27,1993,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Kepa Arrizabalaga\Kepa-Arrizabalaga,es ESP,GK,Chelsea,25,1994,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Luke Ayling\Luke-Ayling,eng ENG,DF,Leeds United,28,1991,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+César Azpilicueta\Cesar-Azpilicueta,es ESP,DFMF,Chelsea,30,1989,1,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Kyle Bartley\Kyle-Bartley,eng ENG,DF,West Brom,29,1991,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Chris Basham\Chris-Basham,eng ENG,DF,Sheffield Utd,32,1988,1,1,70,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Jan Bednarek\Jan-Bednarek,pl POL,DF,Southampton,24,1996,1,1,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Steven Bergwijn\Steven-Bergwijn,nl NED,FW,Tottenham,22,1997,1,0,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Ryan Bertrand\Ryan-Bertrand,eng ENG,DF,Southampton,30,1989,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.04,0.04,0,0.04,Matches
+Yves Bissouma\Yves-Bissouma,ml MLI,MF,Brighton,23,1996,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.04,0,0.04,0.04,0.04,Matches
+Willy Boly\Willy-Boly,fr FRA,DF,Wolves,29,1991,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Joe Bryan\Joe-Bryan,eng ENG,DF,Fulham,26,1993,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Oskar Buur\Oskar-Buur,dk DEN,DF,Wolves,22,1998,1,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Tom Cairney\Tom-Cairney,sco SCO,MF,Fulham,29,1991,1,1,90,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Dani Ceballos\Dani-Ceballos,es ESP,MF,Arsenal,23,1996,1,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Andreas Christensen\Andreas-Christensen,dk DEN,DF,Chelsea,24,1996,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Conor Coady\Conor-Coady,eng ENG,DF,Wolves,27,1993,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Séamus Coleman\Seamus-Coleman,ie IRL,DF,Everton,31,1988,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.02,0.04,0.05,0.02,0.05,Matches
+Aaron Cresswell\Aaron-Cresswell,eng ENG,DF,West Ham,30,1989,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Stuart Dallas\Stuart-Dallas,nir NIR,DF,Leeds United,29,1991,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Scott Dann\Scott-Dann,eng ENG,DF,Crystal Palace,33,1987,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.02,0,0.02,0.02,0.02,Matches
+Karl Darlow\Karl-Darlow,eng ENG,GK,Newcastle Utd,29,1990,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Tom Davies\Tom-Davies,eng ENG,FW,Everton,22,1998,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Leander Dendoncker\Leander-Dendoncker,be BEL,MF,Wolves,25,1995,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.03,0.03,0,0.03,Matches
+Eric Dier\Eric-Dier,eng ENG,DF,Tottenham,26,1994,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Issa Diop\Issa-Diop,fr FRA,DF,West Ham,23,1997,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Moussa Djenepo\Moussa-Djenepo,ml MLI,MF,Southampton,22,1998,1,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+John Egan\John-Egan,ie IRL,DF,Sheffield Utd,27,1992,1,1,90,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.01,0,0.01,0.01,0.01,Matches
+Eberechi Eze\Eberechi-Eze,eng ENG,MF,Crystal Palace,22,1998,1,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Łukasz Fabiański\Lukasz-Fabianski,pl POL,GK,West Ham,35,1985,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Fabinho\Fabinho,br BRA,MF,Liverpool,26,1993,1,0,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Kieran Gibbs\Kieran-Gibbs,eng ENG,DF,West Brom,30,1989,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Joe Gomez\Joe-Gomez,eng ENG,DF,Liverpool,23,1997,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Pascal Groß\Pascal-Gross,de GER,MF,Brighton,29,1991,1,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Vicente Guaita\Vicente-Guaita,es ESP,GK,Crystal Palace,33,1987,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Rekeem Harper\Rekeem-Harper,eng ENG,MFDF,West Brom,20,2000,1,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Isaac Hayden\Isaac-Hayden,eng ENG,MF,Newcastle Utd,25,1995,1,1,90,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Michael Hector\Michael-Hector,jm JAM,DF,Fulham,28,1992,1,1,90,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Jordan Henderson\Jordan-Henderson,eng ENG,MF,Liverpool,30,1990,1,1,65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.03,0,0.03,0.03,0.03,Matches
+Pablo Hernández\Pablo-Hernandez,es ESP,MF,Leeds United,35,1985,1,1,61,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Rob Holding\Rob-Holding,eng ENG,DF,Arsenal,24,1995,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Callum Hudson-Odoi\Callum-Hudson-Odoi,eng ENG,FW,Chelsea,19,2000,1,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Pierre Højbjerg\Pierre-Hojbjerg,dk DEN,MF,Tottenham,24,1995,1,1,90,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Alireza Jahanbakhsh\Alireza-Jahanbakhsh,ir IRN,MF,Brighton,26,1993,1,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.35,0.35,0,0.35,Matches
+Joelinton\Joelinton,br BRA,MFFW,Newcastle Utd,23,1996,1,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11,0.24,0.35,0.11,0.35,Matches
+Sam Johnstone\Sam-Johnstone,eng ENG,GK,West Brom,27,1993,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Curtis Jones\Curtis-Jones,eng ENG,MF,Liverpool,19,2001,1,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11,0.11,0,0.11,Matches
+James Justin\James-Justin,eng ENG,DF,Leicester City,22,1998,1,1,90,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.02,0.02,0,0.02,Matches
+Aboubakar Kamara\Aboubakar-Kamara,fr FRA,FW,Fulham,25,1995,1,1,62,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.03,0,0.03,0.03,0.03,Matches
+N'Golo Kanté\NGolo-Kante,fr FRA,MF,Chelsea,29,1991,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Moise Kean\Moise-Kean,it ITA,FW,Everton,20,2000,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Michael Keane\Michael-Keane,eng ENG,DF,Everton,27,1993,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Robin Koch\Robin-Koch,de GER,DF,Leeds United,24,1996,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.04,0,0.04,0.04,0.04,Matches
+Jamaal Lascelles\Jamaal-Lascelles,eng ENG,DF,Newcastle Utd,26,1993,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Bernd Leno\Bernd-Leno,de GER,GK,Arsenal,28,1992,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Hugo Lloris\Hugo-Lloris,fr FRA,GK,Tottenham,33,1986,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Ruben Loftus-Cheek\Ruben-Loftus-Cheek,eng ENG,FW,Chelsea,24,1996,1,1,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Shane Long\Shane-Long,ie IRL,FW,Southampton,33,1987,1,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Sean Longstaff\Sean-Longstaff,eng ENG,FW,Newcastle Utd,22,1997,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+James Maddison\James-Maddison,eng ENG,MF,Leicester City,23,1996,1,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.27,0.27,0,0.27,Matches
+Ainsley Maitland-Niles\Ainsley-Maitland-Niles,eng ENG,DF,Arsenal,22,1997,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Fernando Marçal\Fernando-Marcal,br BRA,DF,Wolves,31,1989,1,1,90,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.05,0.05,0,0.05,Matches
+Joël Matip\Joel-Matip,cm CMR,DF,Liverpool,28,1991,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Alex McCarthy\Alex-McCarthy,eng ENG,GK,Southampton,30,1989,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+James McCarthy\James-McCarthy,ie IRL,MF,Crystal Palace,29,1990,1,1,73,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.03,0.03,0,0.03,Matches
+David McGoldrick\David-McGoldrick,ie IRL,MF,Sheffield Utd,32,1987,1,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15,0,0.15,0.15,0.15,Matches
+Nampalys Mendy\Nampalys-Mendy,fr FRA,MF,Leicester City,28,1992,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Illan Meslier\Illan-Meslier,fr FRA,GK,Leeds United,20,2000,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Yerry Mina\Yerry-Mina,co COL,DF,Everton,25,1994,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.01,0,0.01,0.01,0.01,Matches
+Tyrick Mitchell\Tyrick-Mitchell,eng ENG,DF,Crystal Palace,20,1999,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Aleksandar Mitrović\Aleksandar-Mitrovic,rs SRB,FW,Fulham,25,1994,1,0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15,0,0.15,0.15,0.15,Matches
+Wilfred Ndidi\Wilfred-Ndidi,ng NGA,DF,Leicester City,23,1996,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Tanguy Ndombele\Tanguy-Ndombele,fr FRA,MF,Tottenham,23,1996,1,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Pedro Neto\Pedro-Neto,pt POR,MF,Wolves,20,2000,1,1,68,0,1,0,0,0,0,0,1.32,1.32,0,1.32,0,0,0,0,0.04,0.04,0,0.04,Matches
+Rúben Neves\Ruben-Neves,pt POR,MF,Wolves,23,1997,1,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.24,0.24,0,0.24,Matches
+Eddie Nketiah\Eddie-Nketiah,eng ENG,FW,Arsenal,21,1999,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Mark Noble\Mark-Noble,eng ENG,MF,West Ham,33,1987,1,1,66,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.03,0.03,0,0.03,Matches
+Oliver Norwood\Oliver-Norwood,nir NIR,MF,Sheffield Utd,29,1991,1,1,75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.03,0.03,0,0.03,Matches
+Jack O'Connell\Jack-OConnell,eng ENG,DF,Sheffield Utd,26,1994,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Dara O'Shea\Dara-OShea,ie IRL,DF,West Brom,21,1999,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Denis Odoi\Denis-Odoi,be BEL,DF,Fulham,32,1988,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.04,0,0.04,0.04,0.04,Matches
+Angelo Ogbonna\Angelo-Ogbonna,it ITA,DF,West Ham,32,1988,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.02,0,0.02,0.02,0.02,Matches
+Josh Onomah\Josh-Onomah,eng ENG,MF,Fulham,23,1997,1,1,74,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Rui Patrício\Rui-Patricio,pt POR,GK,Wolves,32,1988,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Ayoze Pérez\Ayoze-Perez,es ESP,MF,Leicester City,27,1993,1,1,66,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.03,0,0.03,0.03,0.03,Matches
+Jordan Pickford\Jordan-Pickford,eng ENG,GK,Everton,26,1994,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Aaron Ramsdale\Aaron-Ramsdale,eng ENG,GK,Sheffield Utd,22,1998,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Tim Ream\Tim-Ream,us USA,DF,Fulham,32,1987,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Harrison Reed\Harrison-Reed,eng ENG,MF,Fulham,25,1995,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Bobby Reid\Bobby-Reid,jm JAM,MF,Fulham,27,1993,1,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11,0,0.11,0.11,0.11,Matches
+Tyler Roberts\Tyler-Roberts,wal WAL,MF,Leeds United,21,1999,1,0,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Callum Robinson\Callum-Robinson,ie IRL,FW,West Brom,25,1995,1,1,59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Marek Rodák\Marek-Rodak,sk SVK,GK,Fulham,23,1996,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Rodrigo\Rodrigo,es ESP,FW,Leeds United,29,1991,1,0,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Oriol Romeu\Oriol-Romeu,es ESP,MF,Southampton,28,1991,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Mathew Ryan\Mathew-Ryan,au AUS,GK,Brighton,28,1992,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Allan Saint-Maximin\Allan-Saint-Maximin,fr FRA,MF,Newcastle Utd,23,1997,1,1,74,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05,0,0.05,0.05,0.05,Matches
+Romaine Sawyers\Romaine-Sawyers,kn SKN,MF,West Brom,28,1991,1,1,67,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Jeffrey Schlupp\Jeffrey-Schlupp,gh GHA,MF,Crystal Palace,27,1992,1,1,80,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Kasper Schmeichel\Kasper-Schmeichel,dk DEN,GK,Leicester City,33,1986,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Jamie Shackleton\Jamie-Shackleton,eng ENG,MF,Leeds United,20,1999,1,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Gylfi Sigurðsson\Gylfi-Sigurdsson,is ISL,MF,Everton,30,1989,1,0,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Moussa Sissoko\Moussa-Sissoko,fr FRA,MFDF,Tottenham,30,1989,1,0,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+William Smallbone\William-Smallbone,ie IRL,MF,Southampton,20,2000,1,1,76,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Çağlar Söyüncü\Caglar-Soyuncu,tr TUR,DF,Leicester City,24,1996,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.03,0,0.03,0.03,0.03,Matches
+Pascal Struijk\Pascal-Struijk,nl NED,DF,Leeds United,20,1999,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Youri Tielemans\Youri-Tielemans,be BEL,MF,Leicester City,23,1997,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.02,0,0.02,0.02,0.02,Matches
+Kieran Tierney\Kieran-Tierney,sco SCO,DF,Arsenal,23,1997,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Vitinha\Vitinha,pt POR,MF,Wolves,20,2000,1,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Joel Ward\Joel-Ward,eng ENG,DF,Crystal Palace,30,1989,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Adam Webster\Adam-Webster,eng ENG,DF,Brighton,25,1995,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.02,0.03,0.04,0.02,0.04,Matches
+Ben White\Ben-White,eng ENG,DF,Brighton,22,1997,1,1,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Harry Winks\Harry-Winks,eng ENG,MF,Tottenham,24,1996,1,1,59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Andre-Frank Zambo Anguissa\Andre-Frank-Zambo-Anguissa,cm CMR,FW,Fulham,24,1995,1,0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15,0.15,0,0.15,Matches
